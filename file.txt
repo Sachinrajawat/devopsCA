@@ -1,1 +1,2 @@
 name: Sachin Singh Rajawat\nFather name: Shailendra Singh Rajawat
+Area of Specialization: Data Science
